@@ -1,6 +1,6 @@
 # AWS CLI Cloud Project
 
-on this project, I was to provision AWS Infrastructure using AWW command line interface (CLI) on my local terminal.
+On this project, I was able to provision AWS Infrastructure using AWS command line interface (CLI) on my local terminal.
 
 # Services Used
 Some of the services that were used in executing this project are listed below:
