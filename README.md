@@ -19,4 +19,6 @@ Uploaded an image to the s3 bucket
 Configured a public read-access only to the uploaded image
 Verified the iamge
 Documented the results with screenshots
+Documented the project using Git and nano text editor
+Updated the project on Github from the CLI
  
