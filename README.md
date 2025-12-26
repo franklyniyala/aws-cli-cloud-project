@@ -21,4 +21,7 @@ Verified the iamge
 Documented the results with screenshots
 Documented the project using Git and nano text editor
 Updated the project on Github from the CLI
+
+# Screenshots
+The screenshots for the projects outcomes are attached in the folder
  
