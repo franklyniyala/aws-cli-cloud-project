@@ -1,28 +1,28 @@
 # AWS CLI Cloud Project
 
-This projects how to provision AWS infrastructure using the command line interface
+on this project, I was to provision AWS Infrastructure using AWW command line interface (CLI) on my local terminal.
 
 # Services Used
-Some of the serives used are listed below:
+Some of the services that were used in executing this project are listed below:
 
-Amazon EC2
-AWS IAM
-Amazon S3
-AWS CLI
-Git and GitHub
+- Amazon EC2
+- AWS IAM
+- Amazon S3
+- AWS CLI
+- Git and GitHub
 
 # The Major Activities of the Project:
 - Configured AWS access key on the CLI
 ![AWS Access-Key via CLI](screenshots/s3.access.png)
 - Created an Amazon EC2 through the CLI
 ![Amazon EC2 Created via CLI](screenshots/s3-cli.png)
--Connect the EC2 server via CLI ssh
+-Connected to the EC2 server via CLI ssh
 ![SSH Connection via CLI](screenshots/s3-ssh.png)
 - created an s3 bucket through the CLI
 ![S3 Bucket via CLI](screenshots/s3-bucket.png)
 - Uploaded an image to the s3 bucket
 ![S3 Image via CLI](screenshots/s3-image.png)
-- Configured a public read-access only to the uploaded image
+- Configured a Public Read-Access Only to the Uploaded Image
 ![Public Image Read-only Access](screenshots/s3-policy.png)
 - Verified the image
 ![S3 Public Image View Verification](screenshots/s3-pub-image.png)
