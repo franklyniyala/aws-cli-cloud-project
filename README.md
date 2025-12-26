@@ -16,6 +16,8 @@ Git and GitHub
 ![AWS Access-Key via CLI](screenshots/s3.access.png)
 - Created an Amazon EC2 through the CLI
 ![Amazon EC2 Created via CLI](screenshots/s3-cli.png)
+-Connect the EC2 server via CLI ssh
+![SSH Connection via CLI](screenshots/s3-ssh.png)
 - created an s3 bucket through the CLI
 ![S3 Bucket via CLI](screenshots/s3-bucket.png)
 - Uploaded an image to the s3 bucket
